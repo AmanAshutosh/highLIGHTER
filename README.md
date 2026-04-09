@@ -36,7 +36,9 @@
 
 📁 Project Architecture
 The project follows a clean, modular architecture:
+## 📁 Project Architecture
 
+```text
 src/
 ├── components/
 │   ├── BlogCard.jsx    # Individual article card UI
@@ -56,6 +58,8 @@ src/
 ├── App.jsx             # Main routing hub
 ├── main.jsx            # Application entry point
 └── index.css           # Global styles and theme variables
+
+---- 
 
 
 ## Learning Outcomes
