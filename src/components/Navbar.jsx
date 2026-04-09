@@ -28,11 +28,11 @@ const Navbar = () => {
           Home
         </Link>
 
-        <Link to="/" className="nav-link">
+        <Link to="/login" className="nav-link">
           Login
         </Link>
 
-        <Link to="/" className="nav-link">
+        <Link to="/signup" className="nav-link">
           Sign Up
         </Link>
 
