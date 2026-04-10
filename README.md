@@ -65,7 +65,7 @@ src/
 ## Learning Outcomes
 This project was built to demonstrate proficiency in:
 
-Handling complex global state without third-party libraries using Context API.
+Handling complex global state without third-party libraries using the Context API.
 
 Synchronizing React state with external browser APIs (Local Storage).
 
